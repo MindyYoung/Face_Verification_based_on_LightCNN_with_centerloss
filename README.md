@@ -24,7 +24,7 @@ ELCNN 的主要贡献如下：
 
 # 4.参考文献
 
-@article{wulight,
+	@article{wulight,
 	  title={A Light CNN for Deep Face Representation with Noisy Labels},
 	  author={Wu, Xiang and He, Ran and Sun, Zhenan and Tan, Tieniu}
 	  journal={arXiv preprint arXiv:1511.02683},
