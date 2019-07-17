@@ -41,5 +41,4 @@ ELCNN 的主要贡献如下：
 	  author={Wu, Xiang},
 	  journal={arXiv preprint arXiv:1507.04844},
 	  year={2015}
-	}# Face_Verification_based_on_LightCNN_with_centerloss
-# Face_Verification_based_on_LightCNN_with_centerloss
+	}
